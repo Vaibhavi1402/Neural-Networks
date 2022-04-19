@@ -1,6 +1,9 @@
 # Neural-Networks
 
 
+
+https://vaibhavi1402.github.io/Neural-Networks/
+
 Q1 PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
 
 Q2 The dataset contains 36733 instances of 11 sensor measures aggregated over one hour (by means of average or sum) from a gas turbine. 
